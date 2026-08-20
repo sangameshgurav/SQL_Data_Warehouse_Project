@@ -288,4 +288,10 @@ This project is intended for educational and portfolio purposes. Add an appropri
 
 ---
 
+👨‍💻 About Me
+
+Hi, I'm Sangamesh Gurav, a Data and Analytics professional with experience in SQL, Power BI, Domo, Databricks, Excel, and data visualization.
+
+I am passionate about working with data, building analytical solutions, and transforming raw information into meaningful business insights. My experience includes developing dashboards, writing SQL queries, working with data warehouses, performing data analysis, and creating business-focused KPIs and reports.
+
 **⭐ If you find this project useful, consider giving the repository a star!**
